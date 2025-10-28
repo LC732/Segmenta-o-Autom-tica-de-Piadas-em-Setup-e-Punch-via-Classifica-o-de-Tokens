@@ -60,7 +60,5 @@ O modelo demonstra alta capacidade de segmentar corretamente as partes estrutura
 - Desenvolvimento de ferramenta interativa
 
 ---
-
-**Autor:** Cleon  
 **Área:** Inteligência Artificial  
 **Licença:** MIT
